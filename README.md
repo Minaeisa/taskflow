@@ -138,7 +138,7 @@ GET    /api/tasks/stats        Task counts per status
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/taskflow.git
+git clone https://github.com/Minaeisa/taskflow.git
 cd taskflow
 
 # 2. Install backend dependencies
@@ -192,7 +192,7 @@ Visit **http://localhost:3000** → Register an account → Start building!
 <div align="center">
   <p>Built with ❤️ by <strong>Mina Eisa</strong></p>
   <p>
-    <a href="https://www.upwork.com">Upwork Profile</a> •
+    <a href="https://github.com/Minaeisa">GitHub</a> •
     <a href="mailto:123menaesss@gmail.com">Contact</a>
   </p>
 </div>
